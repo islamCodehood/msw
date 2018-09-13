@@ -104,7 +104,7 @@ figure {
 }
 
 #fixed {
-    background-image: url('/img/hero.jpg');
+    background-image: url('https://islam888.github.io/msw/img/hero.jpg');
     position: fixed;
     display: block;
     top: 0;
